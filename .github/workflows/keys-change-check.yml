@@ -75,7 +75,7 @@ jobs:
 
       - id: get-comment-body
         run: |
-          delimiter=$(openssl rand -hex 8)
+          delimiter="openssl rand -hex 8"
           {
             echo "body<<$delimiter"
             cat result.md
