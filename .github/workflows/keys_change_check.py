@@ -27,7 +27,7 @@ keys_list_new = keys_pr_module.KEYS_TO_IGNORE
 
 keys = keys_list_new.copy()
 # use github codeblock diff style
-result = open("result.md", "w")
+result = open("result.md", "wa")
 
 result.write("```diff")
 
