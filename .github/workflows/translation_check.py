@@ -9,7 +9,6 @@ import filecmp
 import os
 import re
 
-SOME_STUPID = "jkahdkajshdjks"
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
 OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
