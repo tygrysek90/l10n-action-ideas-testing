@@ -27,30 +27,37 @@ keys_list_new = keys_pr_module.KEYS_TO_IGNORE
 
 keys = keys_list_new.copy()
 # use github codeblock diff style
-result = open("result.md", "a")
+result_file = open("result.md", "w")
 
-result.write("```diff")
+result = ("```diff")
 
 OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
 
 
 for line in open(OPENRCT2_EN_GB_FILE ):
     if line[0:8] in keys_list_old and line[0:8] in keys_list_new:
-        result.write("  "+line[:-1]) # =
+        result += ("  "+line) # =
     if line[0:8] in keys_list_old and line[0:8] not in keys_list_new:
-        result.write("- "+line[:-1])
+        result += ("- "+line)
     if line[0:8] not in keys_list_old and line[0:8] in keys_list_new:
-        result.write("+ "+line[:-1])
+        result += ("+ "+line)
     if line[0:8] in keys_list_new:
         keys_list_new.remove(line[0:8])
 
+result += "\n"
 
-result.write(" "+20*"-")
-result.write("KEYS NOT FOUND IN en-GB.txt")
+result += (" "+20*"-")
+result += "\n"
+result += ("KEYS NOT FOUND IN en-GB.txt")
+result += "\n"
+
 for key in keys_list_new:
-    result.write("! "+key)
-result.write("\n "+20*"-")
-result.write("```")
-result.write("\n\n\n")
+    result += ("! "+key)
+    result += "\n"
 
-result.close()
+result += ("\n "+20*"-")
+result += ("```")
+result += ("\n\n\n")
+
+result_file.write(result)
+result_file.close()
