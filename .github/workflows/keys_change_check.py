@@ -1,6 +1,8 @@
 print("keys_change_check.py script text output")
 
-result_file = open("result.md", "w")
+import os
+
+result_file = open(os.environ['GITHUB_OUTPUT'], 'a')
 
 result_file.write("keys_change_check.py result.md file output")
 
