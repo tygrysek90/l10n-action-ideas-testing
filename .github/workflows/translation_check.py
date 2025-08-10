@@ -9,6 +9,7 @@ import filecmp
 import os
 import re
 
+
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
 OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
@@ -38,7 +39,6 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
                   'STR_3004', 'STR_3005', 'STR_3006', 'STR_3007', 'STR_3008', 'STR_3009', 'STR_3020', 'STR_3096',
                   'STR_3212', 'STR_3246', 'STR_3302', 'STR_3309', 'STR_3310', 'STR_3311', 'STR_5138', 'STR_5139',
                   'STR_5182', 'STR_5298', 'STR_5299', 'STR_5375', 'STR_5376', 'STR_5462', 'STR_5467', 'STR_5485',
-                  'STR_5486', 'STR_5633', 'STR_5918', 'STR_5919', 'STR_6012', 'STR_6034', 'STR_6059', 'STR_6062',
                   'STR_6063', 'STR_6164', 'STR_6201', 'STR_6229', 'STR_6230', 'STR_6231', 'STR_6329', 'STR_6360']
 
 languages = []
