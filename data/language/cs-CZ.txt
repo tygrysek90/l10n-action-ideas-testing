@@ -52,34 +52,6 @@ STR_0047    :Bankomat
 STR_0048    :Twist
 STR_0049    :Dům hrůzy
 STR_0050    :První pomoc
-STR_0051    :Cirkus
-STR_0052    :Vlak duchů
-STR_0053    :Ocelová horská dráha
-STR_0054    :Dřevěná horská dráha
-STR_0055    :Horská dráha s bočním vedením
-STR_0056    :Divoká myš
-STR_0057    :Mnohorozměrná horská dráha
-STR_0058    :Neznámá atrakce (38)
-STR_0059    :Létající horská dráha
-STR_0060    :Neznámá atrakce (3A)
-STR_0061    :Virginský moták
-STR_0062    :Cákající lodě
-STR_0063    :Mini helikoptéra
-STR_0064    :Horská dráha v leže
-STR_0065    :Visutá dráha
-STR_0066    :Neznámá atrakce (40)
-STR_0067    :Horská dráha se změnou směru
-STR_0068    :Heartline Twister dráha 
-STR_0069    :Mini Golf
-STR_0070    :Obří dráha
-STR_0071    :Roto-pád
-STR_0072    :Létající talíř
-STR_0073    :Křivý dům
-STR_0074    :Jednokolejná jízdní kola
-STR_0075    :Malá otočená horská dráha
-STR_0076    :Vodní atrakce
-STR_0077    :Svislá dráha na stlačený vzduch
-STR_0078    :Ostrá zavěšená horská dráha
 STR_0079    :Kouzelný koberec
 STR_0080    :Podmořská jízda
 STR_0081    :Říční vory
