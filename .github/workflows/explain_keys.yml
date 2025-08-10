@@ -13,9 +13,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: OpenRCT2/OpenRCT2
-          ref: develop
-          path: OpenRCT2
-
+          ref: develop # větev 
+          path: OpenRCT2 # složka ve virtuálním systému
     
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
@@ -26,8 +25,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: tygrysek90/l10n-action-ideas-testing
-          ref: main
-          path: upstream_master
+          ref: master # větev 
+          path: upstream_master # složka ve virtuálním systému
 
       - name: _EXPLAIN KEYS_
         run: python upstream_master/.github/workflows/explain.py
