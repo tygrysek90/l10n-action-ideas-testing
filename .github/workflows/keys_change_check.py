@@ -11,7 +11,7 @@ module_spec = importlib.util.spec_from_file_location(module_name, module_path)
 
 # Load the module from the spec
 keys_pr_module = importlib.util.module_from_spec(module_spec)
-module_spec.loader.exec_module(gfg_module)
+module_spec.loader.exec_module(keys_pr_module)
 
 print(keys_pr_module.KEYS_TO_IGNORE)
 
