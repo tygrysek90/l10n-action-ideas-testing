@@ -7,9 +7,6 @@ The results is put to result.md to be later published as a comment.
 import argparse
 import filecmp
 import os
-SFdfDSDFSADFASDFASDFASDFASDF
-ydfdfgsdfgsdfgsdfgsdfgsdfg
-gfdhdfghdfghg
 
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
