@@ -71,29 +71,6 @@ STR_0094    :Jednokolejná horská dráha
 STR_0095    :Alpská horská dráha
 STR_0096    :Klasická dřevěná horská dráha
 STR_0097    :Klasická horská dráha ve stoje
-STR_0098    :LSM horská dráha
-STR_0099    :Klasická dřevěná horská dráha „Twister“
-STR_0512    :Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou
-STR_0513    :Návštěvníci jedou po horské dráze s loopingy ve stoje
-STR_0514    :Vlaky zavěšené pod kolejí se v zatáčkách houpají do stran
-STR_0515    :Ocelová horská dráha s vlaky držícími zespoda trati s mnoha zatáčkami
-STR_0516    :Pozvolná horská dráha pro ty kdo se zatím neodvažují na větší dráhy
-STR_0517    :Cestující jedou v miniaturních vlacích po úzkorozchodné koleji
-STR_0518    :Cestující jedou v elektrických vlacích po visuté jednokolejné dráze
-STR_0519    :Návštěvníci jedou zavěšení pod jednou kolejí v malých vozech, volně se houpajících ze strany na stranu
-STR_0520    :Přístavní molo, kde návštěvníci mohou řídit osobní plavidlo na vodní hladině
-STR_0521    :Rychlá a mrštná horská dráha s ostrými zatáčkami a strmými svahy. Dráha je předurčená k vysoké intenzitě.
-STR_0522    :Menší horská dráha, na které návštěvníci sedí nad dráhou bez kabiny kolem sebe
-STR_0523    :Návštěvníci jedou po trati v pomalu jedoucích vozidlech
-STR_0524    :Kabina pro volný pád je pneumaticky vystřelena vzhůru po vysoké ocelové věži a následně volně padá k zemi
-STR_0525    :Návštěvníci sviští po zakroucené dráze v bobech poletujících ze strany na stranu v půlkruhovém profilu trati
-STR_0526    :Otáčející se vyhlídková kabina, která postupně vyjíždí na vysokou věž
-STR_0527    :Plynulá ocelová horská dráha s loopingy
-STR_0528    :Návštěvníci jedou v nafukovacích člunech po tobogánu
-STR_0529    :Ocelová horská dráha ve stylu důlního vlaku s věrně vypadajícími důlními kolejemi.
-STR_0530    :Kabiny nebo sedačky jsou zavěšeny na laně obíhajícím mezi stanicemi
-STR_0531    :Malá ocelová horská dráha, na které vlak projíždí smyčky a vývrtky
-STR_0532    :Bludiště z šest stop vysokých zdí nebo živého plotu. Návštěvníci bloudí dokud nenajdou východ
 STR_0533    :Dřevěná budova s krytým schodištěm a venkovní skluzavkou s koberečky
 STR_0534    :Návštěvníci závodí v motokárách po asfaltovém okruhu
 STR_0535    :Lodě plují ve vodním kanále a sjíždí strmé klesání, voda při tom stříká na všechny strany a smáčí návštěvníky
