@@ -5,15 +5,13 @@ print("keys_change_check.py script text output")
 """
 Load modules to compare and en-GB.txt file
 """
-#module_path = 'pr/.github/workflows/translation_check.py'
-module_path = '/home/richard/openrct2-workshop/staged/pr/translation_check.py'
+module_path = 'pr/.github/workflows/translation_check.py'
 module_name = 'keys_pr'  
 module_spec = importlib.util.spec_from_file_location(module_name, module_path)
 keys_pr_module = importlib.util.module_from_spec(module_spec)
 module_spec.loader.exec_module(keys_pr_module)
 
-#module_path = 'master/.github/workflows/translation_check.py'
-module_path = '/home/richard/openrct2-workshop/staged/master/translation_check.py'
+module_path = 'master/.github/workflows/translation_check.py'
 module_name = 'keys_master'  
 module_spec = importlib.util.spec_from_file_location(module_name, module_path)
 keys_master_module = importlib.util.module_from_spec(module_spec)
