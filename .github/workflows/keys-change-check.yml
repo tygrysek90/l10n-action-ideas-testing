@@ -75,11 +75,8 @@ jobs:
 
       - id: get-comment-body
         run: |
-          delimiter="openssl rand -hex 8"
           {
-            echo "body<<$delimiter"
             cat result.md
-            echo "$delimiter"
           } >> $GITHUB_OUTPUT
 
       - name: Create PR comment
