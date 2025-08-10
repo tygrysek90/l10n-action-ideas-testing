@@ -20,8 +20,7 @@ module_spec.loader.exec_module(keys_master_module)
 keys_list_old = keys_master_module.KEYS_TO_IGNORE
 keys_list_new = keys_pr_module.KEYS_TO_IGNORE
 
-#OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
-OPENRCT2_EN_GB_FILE = "/home/richard/openrct2-workshop/staged/en-GB.txt"
+OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
 
 result_file = open("result.md", "w")
 
