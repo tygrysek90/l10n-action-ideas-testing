@@ -71,13 +71,8 @@ jobs:
           ref: master
 
       - name: Run checks
+        id: get-comment-body
         run: python upstream_master/.github/workflows/keys_change_check.py
-
-      - id: get-comment-body
-        run: |
-          {
-            cat result.md
-          } >> $GITHUB_OUTPUT
 
       - name: Create PR comment
         uses: peter-evans/create-or-update-comment@v4
