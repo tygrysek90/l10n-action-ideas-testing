@@ -5,7 +5,6 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Spirální horská dráha
 STR_0003    :Horská dráha ve stoje
-STR_0004    :Závěsná houpající se horská dráha
 STR_0005    :Otočená horská dráha
 STR_0006    :Dorostenecká horská dráha
 STR_0007    :Miniaturní železnice
@@ -32,55 +31,7 @@ STR_0027    :Autodrom
 STR_0028    :Pirátská loď
 STR_0029    :Houpající se obrácená loď
 STR_0030    :Stánek s jídlem
-STR_0031    :Neznámý obchod (1D)
-STR_0032    :Stánek s pitím
-STR_0033    :Neznámý obchod (1F)
-STR_0034    :Obchod
-STR_0035    :Kolotoč
-STR_0036    :Neznámý obchod (22)
-STR_0037    :Informační kiosek
-STR_0038    :Toalety
-STR_0039    :Ruské kolo
-STR_0040    :Simulátor pohybu
-STR_0041    :3D Kino
-STR_0042    :Top Spin
-STR_0043    :Vesmírné kruhy
-STR_0044    :Horská dráha s volným pádem pozpátku
-STR_0045    :Výtah
-STR_0046    :Horská dráha s vertikálním pádem
-STR_0047    :Bankomat
-STR_0048    :Twist
-STR_0049    :Dům hrůzy
-STR_0050    :První pomoc
-STR_0051    :Cirkus
-STR_0052    :Vlak duchů
-STR_0053    :Ocelová horská dráha
-STR_0054    :Dřevěná horská dráha
-STR_0055    :Horská dráha s bočním vedením
-STR_0056    :Divoká myš
-STR_0057    :Mnohorozměrná horská dráha
-STR_0058    :Neznámá atrakce (38)
-STR_0059    :Létající horská dráha
-STR_0060    :Neznámá atrakce (3A)
-STR_0061    :Virginský moták
-STR_0062    :Cákající lodě
-STR_0063    :Mini helikoptéra
-STR_0064    :Horská dráha v leže
-STR_0065    :Visutá dráha
-STR_0066    :Neznámá atrakce (40)
-STR_0067    :Horská dráha se změnou směru
-STR_0068    :Heartline Twister dráha 
-STR_0069    :Mini Golf
-STR_0070    :Obří dráha
-STR_0071    :Roto-pád
-STR_0072    :Létající talíř
-STR_0073    :Křivý dům
-STR_0074    :Jednokolejná jízdní kola
-STR_0075    :Malá otočená horská dráha
-STR_0076    :Vodní atrakce
-STR_0077    :Svislá dráha na stlačený vzduch
-STR_0078    :Ostrá zavěšená horská dráha
-STR_0079    :Kouzelný koberec
+
 STR_0080    :Podmořská jízda
 STR_0081    :Říční vory
 STR_0082    :Neznámá atrakce (50)
@@ -99,29 +50,6 @@ STR_0094    :Jednokolejná horská dráha
 STR_0095    :Alpská horská dráha
 STR_0096    :Klasická dřevěná horská dráha
 STR_0097    :Klasická horská dráha ve stoje
-STR_0098    :LSM horská dráha
-STR_0099    :Klasická dřevěná horská dráha „Twister“
-STR_0512    :Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou
-STR_0513    :Návštěvníci jedou po horské dráze s loopingy ve stoje
-STR_0514    :Vlaky zavěšené pod kolejí se v zatáčkách houpají do stran
-STR_0515    :Ocelová horská dráha s vlaky držícími zespoda trati s mnoha zatáčkami
-STR_0516    :Pozvolná horská dráha pro ty kdo se zatím neodvažují na větší dráhy
-STR_0517    :Cestující jedou v miniaturních vlacích po úzkorozchodné koleji
-STR_0518    :Cestující jedou v elektrických vlacích po visuté jednokolejné dráze
-STR_0519    :Návštěvníci jedou zavěšení pod jednou kolejí v malých vozech, volně se houpajících ze strany na stranu
-STR_0520    :Přístavní molo, kde návštěvníci mohou řídit osobní plavidlo na vodní hladině
-STR_0521    :Rychlá a mrštná horská dráha s ostrými zatáčkami a strmými svahy. Dráha je předurčená k vysoké intenzitě.
-STR_0522    :Menší horská dráha, na které návštěvníci sedí nad dráhou bez kabiny kolem sebe
-STR_0523    :Návštěvníci jedou po trati v pomalu jedoucích vozidlech
-STR_0524    :Kabina pro volný pád je pneumaticky vystřelena vzhůru po vysoké ocelové věži a následně volně padá k zemi
-STR_0525    :Návštěvníci sviští po zakroucené dráze v bobech poletujících ze strany na stranu v půlkruhovém profilu trati
-STR_0526    :Otáčející se vyhlídková kabina, která postupně vyjíždí na vysokou věž
-STR_0527    :Plynulá ocelová horská dráha s loopingy
-STR_0528    :Návštěvníci jedou v nafukovacích člunech po tobogánu
-STR_0529    :Ocelová horská dráha ve stylu důlního vlaku s věrně vypadajícími důlními kolejemi.
-STR_0530    :Kabiny nebo sedačky jsou zavěšeny na laně obíhajícím mezi stanicemi
-STR_0531    :Malá ocelová horská dráha, na které vlak projíždí smyčky a vývrtky
-STR_0532    :Bludiště z šest stop vysokých zdí nebo živého plotu. Návštěvníci bloudí dokud nenajdou východ
 STR_0533    :Dřevěná budova s krytým schodištěm a venkovní skluzavkou s koberečky
 STR_0534    :Návštěvníci závodí v motokárách po asfaltovém okruhu
 STR_0535    :Lodě plují ve vodním kanále a sjíždí strmé klesání, voda při tom stříká na všechny strany a smáčí návštěvníky
@@ -152,84 +80,6 @@ STR_0562    :Vozy jezdí po vícepatrovém okruhu okolo strašidelných kulis a 
 STR_0563    :Horská dráha s dlouhými pády, velkou rychlostí a pohodlnými vlaky schopnými lehce přelétávat vrcholky kopců, sedadla jsou vybaveny opěrkou v klíně
 STR_0564    :Dřevěná, rychlá, hlučná a drsná horská dráha jede jako utržená ze řetězů a přelétává vrcholky kopců
 STR_0565    :Jednoduchá dřevěná horská dráha, schopná jen mírných kopců a zatáček, na které je vůz držen jen bočními kolečky a gravitací
-STR_0566    :Malá horská dráha s vozy po jednom projíždějícími cik-cak trať s kroucenými pády a ostrými zatáčkami
-STR_0567    :Vozy se sedadly schopny otáčet návštěvníky vzhůru nohama
-STR_0569    :Jízda ve speciálních postrojích zavěšených pod tratí, poskytuje pocit letu jako pták
-STR_0571    :Kulaté vozy se otáčejí kolem vlastní osy při jízdě klikatou dřevěnou tratí
-STR_0572    :Velkokapacitní lodě se plaví po širokém kanále, stoupání vyjíždí po dopravníkovém pásu, na konci klesání pořádně šplouchnou a smáčí návštěvníky 
-STR_0573    :Vozy ve tvaru helikoptér, poháněné šlapáním, jezdí po ocelové dráze
-STR_0574    :Návštěvníci ve speciálních postrojích zavěšení v leže pod tratí, jedou přes zatáčky a obraty pozadu nebo čelem k zemi
-STR_0575    :Trakční vlaky zavěšené pod kolejí převážejí návštěvníky po parku
-STR_0577    :Vozy s dvěma podvozky jezdí po dřevěné trati a mohou se měnit směr jízdy na speciálních místech
-STR_0578    :Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě.
-STR_0579    :Pohodový minigolf
-STR_0580    :Gigantická ocelová horská dráha schopna volných pádů a kopců přes 90 metrů dlouhých
-STR_0581    :Kruh sedadel je za pomalé rotace vytažen na vrchol vysoké věže, spuštěn volným pádem k zemi a opatrně zastaven pomocí magnetických brzd
-STR_0582    :Návštěvníci volně jezdí na vznášedlech
-STR_0583    :Budova s pokřivenými chodbami a zvláštními místnostmi, která dezorientuje návštěvníky
-STR_0584    :Speciální kola poháněná šlapáním jezdců jezdí po ocelové koleji
-STR_0585    :Návštěvníci sedí po dvou zavěšení pod tratí a jedou skrze loopingy a ostré zatáčky
-STR_0586    :Vozy ve tvaru lodí jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky
-STR_0587    :Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice
-STR_0588    :Vozy po jednom jedou pod cik-cak tratí s ostrými zatáčkami a pády
-STR_0589    :Vozy připomínající létající koberce se pohybují nahoru a dolů
-STR_0590    :Návštěvníci vyrazí na podvodní plavbu v ponorce
-STR_0591    :Vory se plaví po meandrech na vodním kanále
-STR_0593    :Řetízkáč s náklonem
-STR_0598    :Vozy vyrazí vstříc jednomu konci trati, poté prosviští pozpátku stanicí a vyletí až na druhý konec trati
-STR_0599    :Malá horská dráha s vozy po jednom projíždějícími trať s kroucenými pády
-STR_0600    :Horská dráha s vozy ve stylu důlních vagónů, které jedou po hladkých kolejnicích skrze propletenou dráhu
-STR_0602    :Horská dráha s vozy poháněnými elektromotorem, které sviští skrze propletenou dráhu
-STR_0603    :Dřevěná horská dráha s ocelovými kolejemi, umožňující strmé přepady a obraty.
-STR_0604    :Jezdci jedou v jednom radě na úzké, jednokolejové dráze, při závodě úzkými obrátkami a změnami směru.
-STR_0605    :Jezdci se kloužou zauzlenou ocelovou drahou, ovládají brzdy a tím svou rychlost
-STR_0606    :Dřevěná horská dráha staršího stylu s drsnou a rychlou jízdou, spoustou času ve vzduchu, bočním přetížením, navržená pro pocit „ztracené kontroly“
-STR_0607    :Intenzivní horská dráha staršího stylu, na které návštěvníci jedou vestoje
-STR_0608    :Vozy poháněné lineárními synchronními elektromotory sviští skrze těsné vývrtky a zatáčky
-STR_0609    :Dřevěná horská dráha staršího stylu s drsnou a rychlou jízdou, kloubovými vozy, spoustou času ve vzduchu a zakroucenou dráhou
-STR_0767    :Návštěvník {INT32}
-STR_0768    :Údržbář {INT32}
-STR_0769    :Mechanik {INT32}
-STR_0770    :Hlídač {INT32}
-STR_0771    :Maskot {INT32}
-STR_0777    :Nepojmenovaný park
-STR_0778    :Nápis
-STR_0779    :1.
-STR_0780    :2.
-STR_0781    :3.
-STR_0782    :4.
-STR_0783    :5.
-STR_0784    :6.
-STR_0785    :7.
-STR_0786    :8.
-STR_0787    :9.
-STR_0788    :10.
-STR_0789    :11.
-STR_0790    :12.
-STR_0791    :13.
-STR_0792    :14.
-STR_0793    :15.
-STR_0794    :16.
-STR_0795    :17.
-STR_0796    :18.
-STR_0797    :19.
-STR_0798    :20.
-STR_0799    :21.
-STR_0800    :22.
-STR_0801    :23.
-STR_0802    :24.
-STR_0803    :25.
-STR_0804    :26.
-STR_0805    :27.
-STR_0806    :28.
-STR_0807    :29.
-STR_0808    :30.
-STR_0809    :31.
-STR_0810    :Led
-STR_0811    :Úno
-STR_0812    :Bře
-STR_0813    :Dub
-STR_0814    :Kvě
 STR_0815    :Čvn
 STR_0816    :Čvc
 STR_0817    :Srp

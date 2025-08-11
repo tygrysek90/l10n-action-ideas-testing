@@ -5,21 +5,7 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Spiral-Achterbahn
 STR_0003    :Stehachterbahn
-STR_0004    :Schwingende Hängebahn
-STR_0005    :Umgekehrte Achterbahn
-STR_0006    :Kinder-Achterbahn
-STR_0007    :Miniaturbahn
-STR_0008    :Einschienenbahn
-STR_0009    :Minihängebahn
-STR_0010    :Bootsverleih
-STR_0011    :Wilde-Maus-Holzbahn
-STR_0012    :Hindernislauf
-STR_0013    :Wagenbahn
-STR_0014    :Hochgeschossener Freefall
-STR_0015    :Bob-Achterbahn
-STR_0016    :Aussichtsturm
-STR_0017    :Looping-Achterbahn
-STR_0018    :Schlauchboot-Gleitbahn
+
 STR_0019    :Minenachterbahn
 STR_0020    :Sessellift
 STR_0021    :Korkenzieher-Achterbahn
@@ -36,22 +22,7 @@ STR_0031    :Unbekannter Stand (1D)
 STR_0032    :Getränkestand
 STR_0033    :Unbekannter Stand (1F)
 STR_0034    :Stand
-STR_0035    :Karussell
-STR_0036    :Stand
-STR_0037    :Kiosk
-STR_0038    :Toiletten
-STR_0039    :Riesenrad
-STR_0040    :Bewegungssimulator
-STR_0041    :3D-Kino
-STR_0042    :Top Spin
-STR_0043    :Weltraumringe
-STR_0044    :Umgekehrte Freefall-Bahn
-STR_0045    :Lift
-STR_0046    :Vertikaler-Fall-Achterbahn
-STR_0047    :Geldautomat
-STR_0048    :Twist
-STR_0049    :Spukhaus
-STR_0050    :Erste Hilfe
+
 STR_0051    :Zirkus
 STR_0052    :Geisterbahn
 STR_0053    :Stahl-Twister-Achterbahn

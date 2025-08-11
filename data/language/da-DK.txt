@@ -14,27 +14,7 @@ STR_0009    :Mini Suspenderet Rutschebane
 STR_0010    :Bådudlejning
 STR_0011    :Træ Wild Mouse
 STR_0012    :Hestevæddeløb
-STR_0013    :Bilbane
-STR_0014    :Accelereret Frit Fald
-STR_0015    :Bobslæde Rutschebane
-STR_0016    :Observations Tårn
-STR_0017    :Loop Rutschebane
-STR_0018    :Gummibåds Rutschebane
-STR_0019    :Minetogs Rutschebane
-STR_0020    :Stolelift
-STR_0021    :Spiral Rutschebane
-STR_0022    :Labyrint
-STR_0023    :Spiral Slide
-STR_0024    :Go Karts
-STR_0025    :Log Flume
-STR_0026    :River Rapids
-STR_0027    :Radiobiler
-STR_0028    :Svingende Skib
-STR_0029    :Svingende Inverteret Skib
-STR_0030    :Madbod
-STR_0031    :Ukendt Bod (1D)
-STR_0032    :Drikkebod
-STR_0033    :Ukendt Bod (1F)
+
 STR_0034    :Butik
 STR_0035    :Karrusel
 STR_0036    :Ukendt Bod (22)
@@ -42,18 +22,6 @@ STR_0037    :Informations Kiosk
 STR_0038    :Toiletter
 STR_0039    :Pariserhjul
 STR_0040    :Motion Simulator
-STR_0041    :3D Biograf
-STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Omvendt Frit Fald Rutschebane
-STR_0045    :Lift
-STR_0046    :Frit Fald Rutschebane
-STR_0047    :Kontantautomat
-STR_0048    :Twist
-STR_0049    :Spøgelseshus
-STR_0050    :Skadestue
-STR_0051    :Cirkus
-STR_0052    :Spøgelsestog
 STR_0053    :Twister Rutschebane
 STR_0054    :Trærutschebane
 STR_0055    :Side-Friktions Rutschebane
