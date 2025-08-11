@@ -22,18 +22,6 @@ STR_0037    :Informations Kiosk
 STR_0038    :Toiletter
 STR_0039    :Pariserhjul
 STR_0040    :Motion Simulator
-STR_0041    :3D Biograf
-STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Omvendt Frit Fald Rutschebane
-STR_0045    :Lift
-STR_0046    :Frit Fald Rutschebane
-STR_0047    :Kontantautomat
-STR_0048    :Twist
-STR_0049    :Spøgelseshus
-STR_0050    :Skadestue
-STR_0051    :Cirkus
-STR_0052    :Spøgelsestog
 STR_0053    :Twister Rutschebane
 STR_0054    :Trærutschebane
 STR_0055    :Side-Friktions Rutschebane
