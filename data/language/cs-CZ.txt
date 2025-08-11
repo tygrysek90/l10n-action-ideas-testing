@@ -5,7 +5,6 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Spirální horská dráha
 STR_0003    :Horská dráha ve stoje
-STR_0004    :Závěsná houpající se horská dráha
 STR_0005    :Otočená horská dráha
 STR_0006    :Dorostenecká horská dráha
 STR_0007    :Miniaturní železnice
