@@ -22,22 +22,7 @@ STR_0031    :Unbekannter Stand (1D)
 STR_0032    :Getränkestand
 STR_0033    :Unbekannter Stand (1F)
 STR_0034    :Stand
-STR_0035    :Karussell
-STR_0036    :Stand
-STR_0037    :Kiosk
-STR_0038    :Toiletten
-STR_0039    :Riesenrad
-STR_0040    :Bewegungssimulator
-STR_0041    :3D-Kino
-STR_0042    :Top Spin
-STR_0043    :Weltraumringe
-STR_0044    :Umgekehrte Freefall-Bahn
-STR_0045    :Lift
-STR_0046    :Vertikaler-Fall-Achterbahn
-STR_0047    :Geldautomat
-STR_0048    :Twist
-STR_0049    :Spukhaus
-STR_0050    :Erste Hilfe
+
 STR_0051    :Zirkus
 STR_0052    :Geisterbahn
 STR_0053    :Stahl-Twister-Achterbahn
